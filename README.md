@@ -16,4 +16,4 @@ Workflow for creating publicly accessable GCS Bucket using Terrorform:
 2. Add your authentication. (This should include your project, region, and credentials).
 3. Create the resource for your storage bucket with the necessary details. (Include the IAM and teardown policy).
 4. Create the resource object with necessary details.
-5. Create the resource for your IAM policy. Grant the storage role to allUSers, this should allow for public access. (Optionally: attach the expiration conditon is so choose )
+5. Create the resource for your IAM policy. Grant the storage role to allUSers, this should allow for public access. 
