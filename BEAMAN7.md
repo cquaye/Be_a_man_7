@@ -12,7 +12,7 @@ BE A MAN GOSPELS
 
 ![image alt](https://github.com/cquaye/Be_a_man_7/blob/fc893b9b7e39172aabd782ab51c60b4a12e4dd59/jesus-gains.jpg)
 
-"Break Free of the shackels society has placed upon thee. Save thy self."
+"Break Free of the shackles society has placed upon thee. Save thy self."
 
 
 ![image alt](https://github.com/cquaye/Be_a_man_7/blob/fc893b9b7e39172aabd782ab51c60b4a12e4dd59/jesusmacros.jpg)
