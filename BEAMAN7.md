@@ -22,7 +22,7 @@ BE A MAN GOSPELS
 
 ![image alt](https://github.com/cquaye/Be_a_man_7/blob/fc893b9b7e39172aabd782ab51c60b4a12e4dd59/lastsupper.jpg)
 
-"Have communion with thy brotheren. Fro iron sharpens iron."
+"Have communion with thy brotheren. For iron sharpens iron."
 
 
 "Follow my teachings I say unto thee. Be a man...Be a man...Be a man.."
