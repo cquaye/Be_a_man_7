@@ -8,3 +8,12 @@ BE A MAN CHALLENGE 7
     https://registry.terraform.io/pro.../hashicorp/google/latest 
     https://tinyurl.com/2pu8hc6d 
     If you do not submit you will be lizzoed…
+
+
+Workflow for creating publicly accessable GCS Bucket using Terrorform:
+
+1. Set up your required provider with your authentication.
+2. Add your authentication. (This should include your project, region, and credentials).
+3. Create the resource for your storage bucket with the necessary details. (Include the IAM and teardown policy).
+4. Create the resource object with necessary details.
+5. Create the resource for your IAM policy. Grant the storage role to allUSers, this should allow for public access. (Optionally: attach the expiration conditon is so choose )
