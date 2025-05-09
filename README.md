@@ -17,3 +17,12 @@ Workflow for creating publicly accessable GCS Bucket using Terrorform:
 3. Create the resource for your storage bucket with the necessary details. (Include the IAM and teardown policy).
 4. Create the resource object with necessary details.
 5. Create the resource for your IAM policy. Grant the storage role to allUSers, this should allow for public access. 
+
+
+Resources:
+
+https://cloud.google.com/storage/docs/creating-buckets#terraform
+https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/storage_bucket_iam.html
+https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/storage_bucket_object
+https://datatracker.ietf.org/doc/html/rfc7231#section-3.1.1.5
+https://datatracker.ietf.org/doc/html/rfc7231#section-5.3.2 
